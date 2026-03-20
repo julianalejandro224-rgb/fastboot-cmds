@@ -1,4 +1,4 @@
-# Essential ADB Fastboot Commands for Troubleshooting
+adb shell# Essential ADB Fastboot Commands for Troubleshooting
 
 ADB and Fastboot commands are powerful tools for Android users to troubleshoot and fix common device issues. This guide provides a list of essential commands and tips to help you take control of your device.
 
